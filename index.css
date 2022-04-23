@@ -1,0 +1,22 @@
+body {
+    background: Lavender;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1{
+      font-size: large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      align-content: center;
+      justify-content: end; 
+      top: 20px;
+  }
+
+  .body{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align-last: justify; 
+    top: 20px;
+  }
